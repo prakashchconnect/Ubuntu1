@@ -1,5 +1,5 @@
 Commands:
 
-sudo apt update && sudo apt upgrade -y
+s-->udo apt update && sudo apt upgrade -y
 
 to  check java-->whereis java
