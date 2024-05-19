@@ -26,7 +26,7 @@
   <li>exit</li>
   <li>login and check nemali-->mysql -u nemali -p</li>
   <li>stop mysql -> sudo service mysql stop</li>
-  <li>restart mysql -> sudo service mysql stop</li>
+  <li>restart mysql -> sudo service mysql restart</li>
 </ul>
 <h2>my sql workbench installation</h2>
 <ul>
