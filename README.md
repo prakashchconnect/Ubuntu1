@@ -28,6 +28,10 @@
   <li>stop mysql -> sudo service mysql stop</li>
   <li>restart mysql -> sudo service mysql stop</li>
 </ul>
+<h2>my sql workbench installation</h2>
+<ul>
+  <li>install command -->sudo snap install mysql-workbench-community</li>
+</ul>
 <h2>My Sql users</h2>
 <ul>
   <li>root user password is root</li>
