@@ -32,7 +32,16 @@
 <ul>
   <li>install command -->sudo snap install mysql-workbench-community</li>
 </ul>
+
 <h2>My Sql users</h2>
 <ul>
   <li>root user password is root</li>
+</ul>
+<h1>Anaconda Installation</h1>
+<ul>
+  <li>download anaconda from https://repo.anaconda.com/archive/</li>
+  <li>move to /home/nemali</li>
+  <li>run sha256sum (file name)</li>
+  <li>bash (file name)</li>
+  <li>to initialaize conda on server -->source /home/nemali/anaconda3/bin/activate</li>
 </ul>
