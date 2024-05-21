@@ -44,4 +44,5 @@
   <li>run sha256sum (file name)</li>
   <li>bash (file name)</li>
   <li>to initialaize conda on server -->source /home/nemali/anaconda3/bin/activate</li>
+  <li>to lauch anaconda-->go to cmd and run -->anaconda-navigator</li>
 </ul>
