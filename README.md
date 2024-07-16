@@ -46,3 +46,15 @@
   <li>to initialaize conda on server -->source /home/nemali/anaconda3/bin/activate</li>
   <li>to lauch anaconda-->go to cmd and run -->anaconda-navigator</li>
 </ul>
+<h1>Vs Code Installation</h1>
+<ul>
+  <li>Method1</li>
+  <li>sudo snap install --classic code</li>
+  <li>Method2</li>
+  <li>through apt package manager</li>
+  <li>Method3</li>
+  <li>Installing using GUI</li>
+  <li>open ubuntu software center</li>
+  <li>find vscode</li>
+  <li>hit install button</li>
+</ul>
